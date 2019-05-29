@@ -3,9 +3,13 @@
 
 Instead of the cheaper 40W machines I've seen on eBay, many sources recommended the 50W machine instead.  More powerful laser, better build quality of the machine itself, height adjustable bed, etc.  Including shipping, the 50W machines can be had for around $1500. 
 
+# Videos
+
 This video was really helpful: https://www.youtube.com/watch?v=_qP0ekfRWXE
 
 And he pointed to this extremely useful video playlist specific to the machine I purchased: https://www.youtube.com/playlist?list=PLeKaKWOIPgi_XP6Nxzeapp-vUMCLQyVMB
+
+# Software
 
 As for software, I found a forum specific to the RDWorks software at: https://rdworkslab.com/viewtopic.php?f=107&t=3485
 
