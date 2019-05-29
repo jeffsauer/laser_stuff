@@ -63,4 +63,4 @@ As for accessories, safety first.  Proper eye safety with CO2 spec'd glasses, an
 
 # Pictures
 
-!(s-l1600.jpg)
+![s-l1600.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600.jpg)
