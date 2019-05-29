@@ -63,12 +63,12 @@ As for accessories, safety first.  Proper eye safety with CO2 spec'd glasses, an
 
 # Pictures
 
-![s-l1600.jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600.jpg)
-![s-l1600 (1).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (1).jpg")
-![s-l1600 (2).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (2).jpg")
-![s-l1600 (3).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (3).jpg")
-![s-l1600 (4).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (4).jpg")
-![s-l1600 (5).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (5).jpg")
-![s-l1600 (6).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (6).jpg")
-![s-l1600 (7).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (7).jpg")
-![s-l1600 (8).jpg]("https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600 (8).jpg")
+![s-l1600.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l1600.jpg)
+![s-l16001.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16001.jpg)
+![s-l16002.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16002.jpg)
+![s-l16003.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16003.jpg)
+![s-l16004.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16004.jpg)
+![s-l16005.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16005.jpg)
+![s-l16006.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16006.jpg)
+![s-l16007.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16007.jpg)
+![s-l16008.jpg](https://github.com/jeffsauer/laser_stuff/blob/master/s-l16008.jpg)
