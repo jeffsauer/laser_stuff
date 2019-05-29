@@ -63,4 +63,4 @@ As for accessories, safety first.  Proper eye safety with CO2 spec'd glasses, an
 
 # Pictures
 
-!(sl.jpg)
+!(s-l1600.jpg)
