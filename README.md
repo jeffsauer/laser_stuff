@@ -9,6 +9,15 @@ This video was really helpful: https://www.youtube.com/watch?v=_qP0ekfRWXE
 
 And he pointed to this extremely useful video playlist specific to the machine I purchased: https://www.youtube.com/playlist?list=PLeKaKWOIPgi_XP6Nxzeapp-vUMCLQyVMB
 
+# Amazon.com Links
+
+Orion Motor Tech 50W 110V CO2 Laser https://amzn.to/2Ykf5iw
+30 MA  Panel Meter Analog Ammeter https://amzn.to/2PZlahy 
+50w Replacement Power Supply https://amzn.to/2VCSNH7
+50w Replacement laser tube https://amzn.to/2VCTDnf
+Baltic Birch Plywood https://amzn.to/2YG8i2H
+CO2 Laser Focus Lens 20mm FL 50.8mm https://amzn.to/2EqkCfV
+
 # Software
 
 As for software, I found a forum specific to the RDWorks software at: https://rdworkslab.com/viewtopic.php?f=107&t=3485
